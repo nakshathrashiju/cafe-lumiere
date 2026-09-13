@@ -25,6 +25,29 @@ The project was designed using Figma with a focus on:
 * Wireframing
 * Visual Design
 
+## 🎨 Design Preview
+
+### Home Page
+![Home Page](Home20%Section.png)
+
+### Menu
+![Menu](Menu20%Section.png)
+
+### Menu-2
+![About](Menu20%Section20%-2.png)
+
+### Menu-3
+![Gallery](Menu20%Section20%-3.png)
+
+### About
+![Reservation](About20%Section.png)
+
+### Gallery
+![Contact](Gallery20%Section.png)
+
+### Contact
+![Mobile View](Contact20%Section.png)
+
 📌 Project Type
 
 **UI/UX Design Project**
