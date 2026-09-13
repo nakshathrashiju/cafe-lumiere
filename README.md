@@ -28,25 +28,26 @@ The project was designed using Figma with a focus on:
 ## 🎨 Design Preview
 
 ### Home Page
-![Home Page](Home20%Section.png)
+![Home Page](Home%20Section.png)
 
 ### Menu
-![Menu](Menu20%Section.png)
+![Menu](Menu%20Section.png)
 
 ### Menu - 2
-![Menu - 2](Menu20%Section20%-2.png)
+![Menu - 2](Menu%20Section%20-2.png)
 
 ### Menu - 3
-![Menu - 3](Menu20%Section20%-3.png)
+![Menu - 3](Menu%20Section-3.png)
 
 ### About
-![About](About20%Section.png)
+![About](About%20Section.png)
 
 ### Gallery
-![Gallery](Gallery20%Section.png)
+![Gallery](Gallery%20Section.png)
 
 ### Contact
-![Contact](Contact20%Section.png)
+![Contact](Contact%20Section.png)
+
 📌 Project Type
 
 **UI/UX Design Project**
